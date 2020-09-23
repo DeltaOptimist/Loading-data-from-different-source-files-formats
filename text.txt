@@ -1,0 +1,5 @@
+In my previous article, I introduced you to the basics of Apache Spark, different data representations 
+(RDD / DataFrame / Dataset) and basics of operations (Transformation and Action). We even solved a machine 
+learning problem from one of our past hackathons. In this article, I will continue from the place I left in 
+my previous article. I will focus on manipulating RDD in PySpark by applying operations 
+(Transformation and Actions).
